@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm AmoMaMaT</h1>
-<h3 align="center">A web developer, penetration testing and security development from Iran</h3>
+<h1 align="center">Hey I'm MaMaT</h1>
+<h3 align="center">👨‍💻 Mohammad | 🇮🇷
+⚡ Web Dev: Python • JS • PHP
+🔐 Cybersecurity: CEH • Pentest • Kali
+🌐 Networking: LPIC • MCSA
+💻 Learn • Build • Hack • Secure</h3>
 
 <img align="right" alt="MaMaT" width= "250" height= "300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2M4Njc2OW4yM3RsZXF6dTJmdnp4emZlcjV0cWtoaWFxZmZibmo5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" >
 
